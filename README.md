@@ -9,3 +9,4 @@ Blog:
   + Docs llama-index: https://www.llamaindex.ai/blog/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b
   + https://www.llamaindex.ai/blog/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b
   + https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6
+  + https://freedium.cfd/https://medium.com/ai-advances/advanced-rag-10-corrective-retrieval-augmented-generation-crag-3f5a140796f9
