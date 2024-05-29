@@ -10,3 +10,5 @@ Blog:
   + https://www.llamaindex.ai/blog/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b
   + https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6
   + https://freedium.cfd/https://medium.com/ai-advances/advanced-rag-10-corrective-retrieval-augmented-generation-crag-3f5a140796f9
+  + Llama-index Advanced: https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG
+  + https://akash-mathur.medium.com/advanced-rag-query-augmentation-for-next-level-search-using-llamaindex-d362fed7ecc3#52e2
